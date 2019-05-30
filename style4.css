@@ -1,0 +1,51 @@
+body{
+    background-image: url(img/google.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+
+.menu{
+    background-color: rgb(206, 245, 164);
+    margin: 15px;
+    padding: 25px;
+    border: 2px solid black;
+}
+
+.items{
+    display: inline-block;
+    margin: 0 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.menu2{
+    background-color: rgb(195, 241, 149);
+    margin: 15px;
+    padding: 20px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+.items2{
+    margin: 20px;
+    padding: 15px;
+    font-size: 20px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color: rgb(113, 183, 248);
+}
+
+a:hover{
+    color: rgb(28, 124, 124);
+}
+
+a{
+    text-decoration: none;
+}
